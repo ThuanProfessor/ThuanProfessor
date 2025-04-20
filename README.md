@@ -9,9 +9,9 @@
 
 ## 📬 **How to Reach Me:**
 
-- ✉️ Email: [beanheo2014@gmail.com](mailto:beanheo2014@gmail.com)
-- 💼 LinkedIn: [Hoang Thuan Nguyen](https://www.linkedin.com/in/hoang-thuan-nguyen-87a538248/)
-- 🌐 Facebook: [Thuan Nguyen Hoang](https://www.facebook.com/thuan.nguyenhoang.161/)
+- Email: [beanheo2014@gmail.com](mailto:beanheo2014@gmail.com)
+- LinkedIn: [Hoang Thuan Nguyen](https://www.linkedin.com/in/hoang-thuan-nguyen-87a538248/)
+- Facebook: [Thuan Nguyen Hoang](https://www.facebook.com/thuan.nguyenhoang.161/)
 
 ---
 
@@ -23,9 +23,6 @@
   </a>
   <a href="https://www.facebook.com/thuan.nguyenhoang.161/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>
-  </a>
-  <a href="mailto:beanheo2014@gmail.com">
-    <img src="https://img.icons8.com/ios/452/email.png" alt="Email" height="40" width="40"/>
   </a>
 </p>
 
@@ -46,12 +43,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
 </p>
 
 ---
@@ -63,7 +54,7 @@
 
 ---
 
-## 📚 **GitHub Stats:**
+## 📚 **GitHub Stats**
 
 ![ThuanNguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=thuanprofessor&show_icons=true&count_private=true&theme=radical)
 
@@ -72,11 +63,3 @@
 ## 📈 **Top Languages Used:**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thuanprofessor&langs_count=10&theme=radical)
-
----
-
-## 🏆 **Badges**
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
