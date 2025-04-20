@@ -7,31 +7,20 @@
 
 ---
 
-## 📬 **How to Reach Me:**
+## 🤝 **Connect with me:**
 
 <p align="center">
-  <a href="mailto:beanheo2014@gmail.com" target="blank">
+  <a href="https://linkedin.com/in/hoang-thuan-nguyen-87a538248" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/thuan.nguyenhoang.161/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="mailto:beanheo2014@gmail.com">
     <img src="https://img.icons8.com/ios/452/email.png" alt="Email" height="40" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/hoang-thuan-nguyen-87a538248" target="blank">
-    <img src="https://img.icons8.com/ios/452/linkedin.png" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  <a href="https://www.facebook.com/thuan.nguyenhoang.161/" target="blank">
-    <img src="https://img.icons8.com/ios/452/facebook.png" alt="Facebook" height="40" width="40"/>
-  </a>
 </p>
----
 
-## 🔌 **Connect with Me:**
-
-<p align="center">
-  <a href="https://linkedin.com/in/hoang-thuan-nguyen-87a538248" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  <a href="https://www.facebook.com/thuan.nguyenhoang.161/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>
-  </a>
-</p>
 
 ---
 
