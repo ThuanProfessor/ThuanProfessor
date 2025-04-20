@@ -9,10 +9,17 @@
 
 ## 📬 **How to Reach Me:**
 
-- Email: [beanheo2014@gmail.com](mailto:beanheo2014@gmail.com)
-- LinkedIn: [Hoang Thuan Nguyen](https://www.linkedin.com/in/hoang-thuan-nguyen-87a538248/)
-- Facebook: [Thuan Nguyen Hoang](https://www.facebook.com/thuan.nguyenhoang.161/)
-
+<p align="center">
+  <a href="mailto:beanheo2014@gmail.com" target="blank">
+    <img src="https://img.icons8.com/ios/452/email.png" alt="Email" height="40" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/hoang-thuan-nguyen-87a538248" target="blank">
+    <img src="https://img.icons8.com/ios/452/linkedin.png" alt="LinkedIn" height="40" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/thuan.nguyenhoang.161/" target="blank">
+    <img src="https://img.icons8.com/ios/452/facebook.png" alt="Facebook" height="40" width="40"/>
+  </a>
+</p>
 ---
 
 ## 🔌 **Connect with Me:**
