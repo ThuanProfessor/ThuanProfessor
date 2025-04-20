@@ -9,10 +9,17 @@
 
 ## 📬 **Contact Me**  
 
-[![Email](https://img.shields.io/badge/Email-beanheo2014@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:beanheo2014@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hoang%20Thuan%20Nguyen-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hoang-thuan-nguyen-87a538248/)  
-[![Facebook](https://img.shields.io/badge/Facebook-Thuan%20Nguyen%20Hoang-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/thuan.nguyenhoang.161/)
-
+<p align="center">
+  <a href="mailto:beanheo2014@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-📧%20beanheo2014%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/hoang-thuan-nguyen-87a538248/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-🔗%20Hoang%20Thuan%20Nguyen-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/thuan.nguyenhoang.161/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-🔗%20Thuan%20Nguyen%20Hoang-1877f2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 ---
 
 ## 💻 **Languages and Tools:**
