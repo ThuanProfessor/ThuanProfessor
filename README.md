@@ -7,24 +7,11 @@
 
 ---
 
-## 📬 **How to Reach Me:**
+## 📬 **Contact Me**  
 
-- Email: [beanheo2014@gmail.com](mailto:beanheo2014@gmail.com)
-- LinkedIn: [Hoang Thuan Nguyen](https://www.linkedin.com/in/hoang-thuan-nguyen-87a538248/)
-- Facebook: [Thuan Nguyen Hoang](https://www.facebook.com/thuan.nguyenhoang.161/)
-
----
-
-## 🔌 **Connect with Me:**
-
-<p align="center">
-  <a href="https://linkedin.com/in/hoang-thuan-nguyen-87a538248" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  <a href="https://www.facebook.com/thuan.nguyenhoang.161/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-beanheo2014@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:beanheo2014@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hoang%20Thuan%20Nguyen-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hoang-thuan-nguyen-87a538248/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Thuan%20Nguyen%20Hoang-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/thuan.nguyenhoang.161/)
 
 ---
 
