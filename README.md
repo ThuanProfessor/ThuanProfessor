@@ -1,12 +1,15 @@
-<h1 align="center">👋 Hi, I'm ThuanNguyen</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="waving hand"> 
+  Hi, I'm ThuanNguyen
+</h1>
 <h3 align="center">Software Engineer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+am+a+Software+Engineer.;I+love+building+and+learning.🚀" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=thuanprofessor&label=Profile%20Views&color=00BFFF&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thuanprofessor&label=Profile%20Views&color=00BFFF&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+am+a+Software+Engineer.;I+love+building+and+learning.🚀" alt="Typing SVG" />
 </p>
 
 ---
