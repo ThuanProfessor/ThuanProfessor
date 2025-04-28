@@ -63,7 +63,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thuanprofessor&show_icons=true&theme=blueberry&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thuanprofessor&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thuanprofessor&theme=blueberry&no-frame=true&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thuanprofessor&theme=default&no-frame=true&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
 ## 📈 Top Languages Used
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanprofessor&layout=compact&theme=blueberry&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanprofessor&layout=compact&theme=default&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
