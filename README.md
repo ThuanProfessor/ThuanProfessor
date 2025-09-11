@@ -17,7 +17,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Rental Room Management System**.
-- 🌱 Currently learning **Spring Boot** and **ReactJS**.
+- 🌱 Currently learning **NextJS** and **ReactJS**.
 - 👯 I’m open to collaborate on **Open Source Projects**.
 - 💬 Ask me about **Java, C++, Python**.
 - 📫 Reach me at: **beanheo2014@gmail.com**.
