@@ -28,8 +28,8 @@
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:beanheo2014@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-📧%20beanheo2014%40gmail.com-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:hoangthuandev04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-📧%20hoangthuandev04%40gmail.com-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/hoang-thuan-nguyen-87a538248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-🔗%20Hoang%20Thuan%20Nguyen-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
