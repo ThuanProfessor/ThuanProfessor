@@ -20,7 +20,7 @@
 - 🌱 Currently learning **NextJS** and **ReactJS**.
 - 👯 I’m open to collaborate on **Open Source Projects**.
 - 💬 Ask me about **Java, C++, Python**.
-- 📫 Reach me at: **beanheo2014@gmail.com**.
+- 📫 Reach me at: **hoangthuandev04@gmail.com**.
 - ⚡ Fun fact: I love solving complex problems and exploring new technologies.
 
 ---
