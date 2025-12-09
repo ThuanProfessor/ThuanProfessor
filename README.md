@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" alt="waving hand"> 
   Hi, I'm ThuanNguyen
 </h1>
-<h3 align="center">Software Engineer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Software Engineer | UIUX Design | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thuanprofessor&label=Profile%20Views&color=00BFFF&style=flat" alt="Profile Views" />
