@@ -11,21 +11,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+am+a+Software+Engineer.;I+love+building+and+learning.🚀" alt="Typing SVG" />
 </p>
-
 ---
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **Rental Room Management System**.
-- 🌱 Currently learning **NextJS** and **ReactJS**.
-- 👯 I’m open to collaborate on **Open Source Projects**.
-- 💬 Ask me about **Java, C++, Python**.
-- 📫 Reach me at: **hoangthuandev04@gmail.com**.
-- ⚡ Fun fact: I love solving complex problems and exploring new technologies.
-
----
-
-## 📬 Contact Me
+## Contact Me
 
 <p align="center">
   <a href="mailto:hoangthuandev04@gmail.com" target="_blank">
@@ -41,7 +29,7 @@
 
 ---
 
-## 🚀 Languages and Tools
+## Languages and Tools
 
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -56,30 +44,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thuanprofessor&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thuanprofessor&theme=default&no-frame=true&margin-w=8" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Top Languages Used
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanprofessor&layout=compact&theme=default&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
