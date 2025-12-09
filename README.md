@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;I+am+a+Software+Engineer.;I+love+building+and+learning.🚀" alt="Typing SVG" />
 </p>
----
 
 ## Contact Me
 
@@ -26,8 +25,6 @@
     <img src="https://img.shields.io/badge/Facebook-🔗%20Thuan%20Nguyen%20Hoang-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
-
----
 
 ## Languages and Tools
 
