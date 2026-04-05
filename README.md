@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,docker,terraform,jenkins,githubactions,nginx,openshift" alt="Technologies Icons"/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,gitlab,docker,terraform,jenkins,githubactions,nginx,openshift,grafana" alt="Technologies Icons"/>
   </a>
 </p>
 
