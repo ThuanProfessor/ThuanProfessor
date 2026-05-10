@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,apple,gcp,bash,git,github,gitlab,docker,terraform,jenkins,githubactions,nginx,openshift,grafana" alt="Technologies Icons"/>
+    <img src="https://skillicons.dev/icons?i=aws,linux,apple,gcp,git,github,gitlab,docker,terraform,jenkins,githubactions,nginx,openshift,postman,powershell," alt="Technologies Icons"/>
   </a>
 </p>
 
