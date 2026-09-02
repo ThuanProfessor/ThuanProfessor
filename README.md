@@ -35,7 +35,7 @@
   <a href="mailto:hoangthuandev04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%F0%9F%93%A7%20hoangthuandev04%40gmail.com-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/hoang-thuan-nguyen-87a538248/" target="_blank">
+  <a href="https://www.linkedin.com/in/thuan-nguyen-87a538248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%F0%9F%94%97%20Thuan%20Nguyen-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
    <a href="https://t.me/lowtech25" target="_blank">
